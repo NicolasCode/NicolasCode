@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Nicolas Velandia, but you can call me NicolasCode
+My name is Nicolas Velandia, student of Aplied mathematics and computer sciences
+At this moment developing my tesis, an convolutional network to drive a car into 
+a box-2d gymnasium environment
 
 <!--
 **NicolasCode/NicolasCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
