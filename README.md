@@ -5,12 +5,13 @@
 <p>Hi there! My name is Nicolas, i'm a young developer exploring this awesome world</p>
 </center>
 
-<h1>
+<h4>
   My experience
-</h1>
+</h4>
 
-<p>
-  ...
-</p>
+<li>
+  <item>2 years freelancing</item>
+  <item>4 months on a white collar job</item>
+</li>
 
 </div>
