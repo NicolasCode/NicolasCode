@@ -9,9 +9,9 @@
   My experience
 </h4>
 
-<li>
-  <item>2 years freelancing</item>
-  <item>4 months on a white collar job</item>
-</li>
+<ul>
+  <li> 2 years freelancing </li>
+  <li> 4 months on a white collar job </li>
+</ul>
 
 </div>
