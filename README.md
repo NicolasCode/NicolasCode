@@ -4,9 +4,8 @@
 
 <p>Hi there! My name is Nicolas, i'm a young developer exploring this awesome world</p>
 
-<h4>
-  My experience
-</h4>
+
+## My experience
 
 <div align="justify">
   <ul>
