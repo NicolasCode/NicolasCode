@@ -48,3 +48,15 @@
     I'm someone who naturally adapts to any environment and team dynamic. My goal is always to deliver the best version of myself and produce results that are 100% tailored to each client's needs — because no two problems are the same, and neither should be the solutions.
   </p>
 </div>
+
+
+## Contact
+<div align="justify">
+  <p>
+    Email: <a href="mailto:atencionalcliente@somosnicoder.com">atencionalcliente@somosnicoder.com</a><br/>
+    Phone: +57 321 400 4243
+  </p>
+  <a href="https://wa.me/573214004243?text=Hola%2C%20quiero%20contactarte" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" />
+  </a>
+</div>
